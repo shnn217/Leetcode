@@ -33,7 +33,7 @@ Solved 81 for now...
 | 133 |  Clone Graph|  Medium|
 | 136 |  Single Number|  Easy|
 | 141 |  Linked List Cycle|  Easy|
-| 142 | Linked List Cycle || |  Medium|
+| 142 | Linked List Cycle 2 |  Medium|
 | 144 |  Binary Tree Preorder Traversal|  Easy|
 | 145 |  Binary Tree Postorder Traversal|  Easy|
 | 151 |  Reverse Words in a String|  Medium|
