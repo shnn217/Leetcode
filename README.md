@@ -1,6 +1,9 @@
 # Leetcode
 Solved 81 for now...
-(Just uploaded 50 now)
+
+| Easy| Medium| Hard|
+|-----|-------|-----|
+|60|21|0|
 
 | ID   | Title                                           | Difficulty |
 | ---- | ----------------------------------------------- | ---------- |
@@ -54,3 +57,4 @@ Solved 81 for now...
 | 283 |  Move Zeroes|  Easy|
 | 286 |  Walls and Gates|  Medium|
 | 287 |  Find the Duplicate Number|  Medium|
+| 328 |  Odd Even Linked List|  Medium|
